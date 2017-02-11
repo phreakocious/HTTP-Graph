@@ -1,5 +1,5 @@
 ## HTTP Graph
-#### Instal through the Gephi plugins dialog!
+#### Install through the Gephi plugins dialog!
 
 HTTP Graph is a plugin for Gephi which lets you build a graph of web relationships as you browse.  Data is collected by a Chrome extension and sent to the plugin via REST.  It can also collect this data by acting as a proxy server but due to the prevalence of HTTPS these days, it's not as effective as when this was written in 2010.
                                       
