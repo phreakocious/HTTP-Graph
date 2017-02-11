@@ -7,7 +7,7 @@ HTTP Graph is a plugin for Gephi which lets you build a graph of web relationshi
 1. Install and run Gephi (https://gephi.org/)
 2. Tools/Plugins/Available/HTTPGraph and restart
 3. File/Generate/HTTP Graph
-4. Install Google Chrome extension
+4. Install Google Chrome extension (https://chrome.google.com/webstore/detail/http-graph-collector/lkkdeokncfjlinldgikoabgknklnnkoe)
 5. Browse!
 
 [Video demo](https://vimeo.com/18591468)    
@@ -16,5 +16,3 @@ HTTP Graph is a plugin for Gephi which lets you build a graph of web relationshi
 [Install the HTTP Graph Collector extension](https://chrome.google.com/webstore/detail/http-graph-collector/lkkdeokncfjlinldgikoabgknklnnkoe)
 
 ![HTTP Graph Diagram](https://cdn.rawgit.com/phreakocious/gephi-plugins/master/modules/HttpGraph/HTTPGraph.svg)
-
-
